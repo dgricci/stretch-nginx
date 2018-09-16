@@ -2,7 +2,7 @@
 FROM dgricci/stretch:1.0.0
 MAINTAINER Didier Richard <didier.richard@ign.fr>
 LABEL       version="1.0.0" \
-            nginx="1.11" \
+            nginx="1.10.3" \
             os="Debian Stretch" \
             description="NGinx web server"
 

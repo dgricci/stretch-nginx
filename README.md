@@ -1,11 +1,12 @@
 % Nginx web service  
 % Didier Richard  
-% 2018/09/05
+% 2018/09/16
 
 ---
 
 revision:
     - 1.0.0 : 2018/09/05
+    - 1.0.1 : 2018/09/16 : nginx 1.10.3  
 
 ---
 
